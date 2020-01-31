@@ -304,72 +304,61 @@ The GA tracking code drop a cookie into users browserfor tbe website and any sub
 ## Assessment 4
 
 1. What is “remarketing” in Google Analytics?
+>- When users visit a website for the first time and complete a conversion
+>- **When users are shown targeted ads to bring them back to a website and encourage a conversion**
+>- When Google Analytics can’t distinguish a new user because they have deleted their browser cookies
+>- When a user buys an available product from a competitor
 
- When users visit a website for the first time and complete a conversion
- When users are shown targeted ads to bring them back to a website and encourage a conversion
- When Google Analytics can’t distinguish a new user because they have deleted their browser cookies
- When a user buys an available product from a competitor
-2. To enable remarketing in Google Analytics, what must first be enabled?
+2. To enable remarketing in Google Analytics, what must first be enabled? (select all that apply)
+  >- **Advertising Reporting Features**
+  >- Demographics and Interests
+  >- **Google Ads or Display & Video 360 account linking**
+  >- Custom Dimension
 
-(select all that apply)
+3. Which remarketing audiences can be defined in Google Analytics? (select all that apply)
+  >- **Users who visited a specific page on a website**
+  >- **Users who played a video on a website**
+  >- **Users who speak a particular language**
+  >- Users who searched for a product on Google Search
 
- Advertising Reporting Features
- Demographics and Interests
- Google Ads or Display & Video 360 account linking
- Custom Dimension
-3. Which remarketing audiences can be defined in Google Analytics?
+4. Remarketing can show relevant ads on which Google properties? (select all that apply)
+  >- **Google Display Network**
+  >- Google Sites
+  >- **Mobile apps**
+  >- **Google Search**
 
-(select all that apply)
-
- Users who visited a specific page on a website
- Users who played a video on a website
- Users who speak a particular language
- Users who searched for a product on Google Search
-4. Remarketing can show relevant ads on which Google properties?
-
-(select all that apply)
-
- Google Display Network
- Google Sites
- Mobile apps
- Google Search
 5. What is the maximum duration a user can be included in a remarketing audience?
+  >- 120 days
+  >- 180 days
+  >- 365 days
+  >- **540 days**
 
- 120 days
- 180 days
- 365 days
- 540 days
-6. What Google Analytics data can be used to define a remarketing audience?
+6. What Google Analytics data can be used to define a remarketing audience? (select all that apply)
+  >-  **Pre-defined Segment**
+  >-  **Custom Segment**
+  >-  Custom Dimension
+  >-  Custom Metric
 
-(select all that apply)
-
- Pre-defined Segment
- Custom Segment
- Custom Dimension
- Custom Metric
 7. How many user cookies does an audience list require to be eligible for Google Ads Search Ad remarketing?
+  >-  100
+  >-  **1000**
+  >-  2000
+  >-  5000
 
- 100
- 1000
- 2000
- 5000
-8. Which users could be targeted with Dynamic Remarketing to bring them back to a website?
+8. Which users could be targeted with Dynamic Remarketing to bring them back to a website? (select all that apply)
+  >- Users who posted a favorable product review
+  >- **Users who viewed a website search result page**
+  >- **Users who viewed product detail pages**
+  >- **Users who abandoned their shopping carts**
 
-(select all that apply)
-
- Users who posted a favorable product review
- Users who viewed a website search result page
- Users who viewed product detail pages
- Users who abandoned their shopping carts
 9. To set up Dynamic Remarketing for a retail vertical, what must be linked to Google Ads?
+>- The Google Search Center
+>- The Google Analytics Center
+>- **The Google Merchant Center**
+>- The Google Help Center
 
- The Google Search Center
- The Google Analytics Center
- The Google Merchant Center
- The Google Help Center
 10. To set up Dynamic Remarketing, what must first be created in Google Analytics?
-
- Custom Segment
- Custom Metric
- Custom Dimension
- Custom Report
+>- Custom Segment
+>- Custom Metric
+>- **Custom Dimension**
+>- Custom Report
